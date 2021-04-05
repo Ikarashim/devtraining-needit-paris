@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-26 19:28:14</sys_created_on>
+            <sys_id>42f1d6851b5f2010567542e4cc4bcbbc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>u_request_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-09 21:19:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9318fc7cdb5fa4507527d7c8f49619f8</instance_id>
+        <instance_name>dev109435</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-26 19:28:14</sys_created_on><sys_id>42f1d6851b5f2010567542e4cc4bcbbc</sys_id><sys_mod_count>3</sys_mod_count><sys_name>u_request_type</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-02-09 21:19:52</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1090119241</payload_hash>
+        <record_name>Task.u_request_type</record_name>
+        <reverted_from/>
+        <source>d5a1a5f01b532010567542e4cc4bcb40</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ikarashim@jbs.com</sys_created_by>
+        <sys_created_on>2021-04-05 02:41:46</sys_created_on>
+        <sys_id>22228d821b532010567542e4cc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1789fe852710000001</sys_recorded_at>
+        <sys_updated_by>ikarashim@jbs.com</sys_updated_by>
+        <sys_updated_on>2021-04-05 02:41:46</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>aa228d825a532010a70427662f2143e0</update_guid>
+        <update_guid_history>aa228d825a532010a70427662f2143e0:-1090119241,ea228d82d6532010e0144271d7456add:-820422492,aa228d827c53201002016eb4aee31dda:-1744548422,6a228d829b532010e0f75c98763893d7:-170408833,aaf11a85a25f201021a5c5a345b3088e:0,31f1d685b15f20109405a274fbdb8a5f:1673447142,b5f1d685d55f20106ae3d9034443e25d:-1090119241,75f1d685d55f201024e586d12578185a:-820422492,b1f1d6858c5f2010b491f156d0345957:-1744548422,fdf1d6853e5f2010195659d0407f9453:-170408833,c884ed0900db201050c81dee416f446f:0,5e746d093bdb2010711e02800847520c:1673447142,0de3e1096bdb2010b42b9f9b80178bc0:-1090119241,85e3e10924db201022836710cdbd35be:-820422492,01e3e109a7db201013b83a40804182bc:-1744548422,cf8e2dbc01532010ef7e1685d0a141bc:-170408833</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ikarashim@jbs.com</sys_created_by>
+        <sys_created_on>2021-04-05 02:41:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>619f56350d234e58a8b1cba1fa8f9891</sys_id>
+        <sys_metadata>42f1d6851b5f2010567542e4cc4bcbbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">cb746d091bdb2010567542e4cc4bcba7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">22228d821b532010567542e4cc4bcbe1</sys_update_version>
+        <sys_updated_by>ikarashim@jbs.com</sys_updated_by>
+        <sys_updated_on>2021-04-05 02:41:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
